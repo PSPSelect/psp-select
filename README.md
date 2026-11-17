@@ -68,10 +68,6 @@ No local server is required for this release. After setup, the catalog and downl
 
 No. The installer includes the Store, catalog data, cover previews and language files. Sony firmware and games are not bundled. Only download content you are entitled to use.
 
-### Why does GitHub also show “Source code” downloads?
-
-GitHub generates those archives automatically from this documentation repository. They are not the installer and do not contain the private Store source code. Choose **PSP-Select-Setup.zip** above.
-
 ### How do I remove the Store?
 
 Open **PSP Select Setup** again, press **Triangle**, and confirm removal. The PSP restarts automatically. Downloaded games and saved data are kept.
