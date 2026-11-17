@@ -22,7 +22,7 @@ PSP Select adds its own entry directly below **PlayStation Store** in the XMB. B
 | ![Download Manager showing progress, estimated time, pause and a queue](assets/download-manager.jpg) | ![Per-download choice between PSP Go System Storage and Memory Stick](assets/storage.png) |
 | Queue downloads, check progress and estimated time remaining, pause or resume, and follow verification and installation. | Select **System Storage** or **Memory Stick** for each download. The installer also lets you choose where the Store is installed. |
 
-*Images are demo UI previews, rather than PSP hardware photographs. Example titles, download progress and transfer times are illustrative. The promotional header includes an AI-edited hand.*
+*Store interface previews. Download progress and transfer times are illustrative.*
 
 ## Made for everyday use
 
@@ -80,4 +80,12 @@ Open **PSP Select Setup** again, press **Triangle**, and confirm removal. The PS
 
 PSP Select is an independent homebrew project and is not affiliated with Sony. PSP, PlayStation and referenced game names and artwork belong to their respective owners. Third-party license notices accompany the installer in `LICENSES.txt`.
 
-If you enjoy PSP Select, optional donation details are available inside the Store. The app is free to use.
+## Support PSP Select
+
+PSP Select is free to use. If you enjoy it, a voluntary Bitcoin donation helps support development, testing and future improvements. Every contribution is appreciated. Thank you for helping keep PSP homebrew alive.
+
+**Bitcoin (BTC — Bitcoin network)**
+
+`bc1qv44zpvua32x3g4ejaphrskt60qsmwyjvrxh3fw`
+
+<img src="assets/bitcoin-donation.png" alt="QR code for the Bitcoin donation address above" width="180">
