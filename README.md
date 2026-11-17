@@ -10,6 +10,10 @@
 
 PSP Select adds its own entry directly below **PlayStation Store** in the XMB. Browse the catalog over Wi-Fi, discover titles by category or region, and manage downloads and installation from one place.
 
+## Watch PSP Select in action
+
+https://github.com/user-attachments/assets/72fbaca7-d829-4569-b09e-cc4b5e5a8100
+
 ## A closer look
 
 | Discover the catalog | Choose your region |
